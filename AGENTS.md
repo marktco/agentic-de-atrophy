@@ -22,33 +22,33 @@ socratic-coding-coach/
 ├── README.md                        # Project overview and skill table
 ├── AGENTS.md                        # This file (agent guidelines)
 ├── .gitignore                       # Standard Node.js template
-└── skills/                          # All skills organized by domain
-    ├── coding/
-    │   └── SKILL.md                 # General coding coach
-    ├── system-design/
-    │   └── SKILL.md                 # System design coach
-    ├── react/
-    │   └── SKILL.md                 # React component composition coach
-    ├── testing/
-    │   └── SKILL.md                 # Test design coach
-    ├── debugging/
-    │   └── SKILL.md                 # Debugging coach
-    ├── refactoring/
-    │   └── SKILL.md                 # Refactoring coach
-    ├── databases/
-    │   └── SKILL.md                 # Data modeling coach
-    ├── api-design/
-    │   └── SKILL.md                 # API design coach
-    ├── typescript/
-    │   └── SKILL.md                 # TypeScript coach
-    ├── performance/
-    │   └── SKILL.md                 # Performance coach
-    ├── git/
-    │   └── SKILL.md                 # Git workflow coach
-    ├── code-review/
-    │   └── SKILL.md                 # Code review coach
-    └── algorithms/
-        └── SKILL.md                 # Algorithm coach
+└── skills/                          # All skills organized by category
+    ├── foundational/                # Core skills every developer needs
+    │   ├── coding/SKILL.md          # General coding coach
+    │   ├── problem-decomposition/SKILL.md  # Breaking down complex problems
+    │   ├── reading-code/SKILL.md    # Understanding unfamiliar codebases
+    │   ├── documentation/SKILL.md   # Writing clear documentation
+    │   ├── estimation/SKILL.md      # Task breakdown and estimation
+    │   └── algorithms/SKILL.md      # Algorithm design
+    │
+    ├── design/                      # Architecture and design
+    │   ├── system-design/SKILL.md   # System architecture
+    │   ├── api-design/SKILL.md      # API design
+    │   └── databases/SKILL.md       # Data modeling
+    │
+    ├── quality/                     # Code quality and maintenance
+    │   ├── testing/SKILL.md         # Test design
+    │   ├── debugging/SKILL.md       # Root cause analysis
+    │   ├── refactoring/SKILL.md     # Code smells and refactoring
+    │   ├── code-review/SKILL.md     # Giving feedback
+    │   └── performance/SKILL.md     # Performance optimization
+    │
+    ├── languages/                   # Language and framework specific
+    │   ├── react/SKILL.md           # React component composition
+    │   └── typescript/SKILL.md      # TypeScript type design
+    │
+    └── workflow/                    # Process and collaboration
+        └── git/SKILL.md             # Git workflow and history
 ```
 
 ---
