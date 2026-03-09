@@ -48,7 +48,8 @@ socratic-coding-coach/
     │   └── typescript/SKILL.md      # TypeScript type design
     │
     └── workflow/                    # Process and collaboration
-        └── git/SKILL.md             # Git workflow and history
+        ├── git/SKILL.md             # Git workflow and history
+        └── commit-discipline/SKILL.md  # Pre-commit reflection
 ```
 
 ---

@@ -1,4 +1,4 @@
-## Socratic Coding Coach
+## Agentic De-Atrophy
 
 This repo includes skills — prompts and workflows you can use with any LLM or AI coding assistant — to strengthen your own programming practice while working with AI and agents. The goal is to prevent skill atrophy: making decisions, writing tests, and understanding the code, with the model guiding you instead of writing the solution for you.
 
@@ -43,6 +43,7 @@ This repo includes skills — prompts and workflows you can use with any LLM or 
 | Skill | What it does |
 |-------|--------------|
 | [**Git**](skills/workflow/git/SKILL.md) | Helps you think through branching, commit granularity, and history hygiene. |
+| [**Commit Discipline**](skills/workflow/commit-discipline/SKILL.md) | Reflective pre-commit coach: asks about intent, weaknesses, scale, and trade-offs before every commit. |
 
 ---
 
